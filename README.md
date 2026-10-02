@@ -37,3 +37,13 @@ streamlit run app.py
 ## Dataset
 
 A. Saxena and K. Goebel, "Turbofan Engine Degradation Simulation Data Set", NASA Ames Prognostics Data Repository.
+## Screenshots
+
+### Fleet Overview
+![Fleet Overview](fleet.png)
+
+### Engine Detail
+![Engine Detail](engine.png)
+
+### Model Performance
+![Model Performance](performance.png)
